@@ -1,0 +1,20 @@
+Uri: https://abismo.space/
+File Name: C:\Downloaded Web Sites\abismo.space\index.htm
+Content Type: text/html
+
+Uri: https://abismo.space/assets/index.cf84c57e.js
+File Name: C:\Downloaded Web Sites\abismo.space\assets\index.cf84c57e.js
+Content Type: application/javascript
+
+Uri: https://abismo.space/assets/index.f0664e79.css
+File Name: C:\Downloaded Web Sites\abismo.space\assets\index.f0664e79.css
+Content Type: text/css
+
+Uri: https://abismo.space/assets/vendor.cc0aeded.js
+File Name: C:\Downloaded Web Sites\abismo.space\assets\vendor.cc0aeded.js
+Content Type: application/javascript
+
+Uri: https://abismo.space/favicon.ico
+File Name: C:\Downloaded Web Sites\abismo.space\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
